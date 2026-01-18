@@ -3,75 +3,84 @@
 📞 +91-9002737771  
 📧 Kaustubhd0022@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kaustubhd0022)  
-🌐 [Portfolio](https://share.google/8MmLoWgvhcrcypXU2)
+🌐 Portfolio: https://share.google/8MmLoWgvhcrcypXU2  
 
 ---
 
-## 👨‍💼 Work Experience
-
-### 🚗 Wash On Wheels – Mobile Car Wash (Startup)
-**Co-founder** | Oct 2023 – Sep 2025 | Sangli, Maharashtra
-
-- Founded and launched a doorstep mobile car-wash startup offering on-demand services  
-- Designed a vehicle-based operations model reducing fixed infrastructure costs  
-- Managed end-to-end operations including bookings, service execution, and customer experience  
-- Drove repeat usage through service quality and operational efficiency  
+## SUMMARY
+Associate Product Manager with hands-on experience building **0→1 consumer and ops-heavy products**, owning end-to-end execution from problem discovery to launch. Strong in **user research, MVP definition, metrics design, and cross-functional collaboration**. Proven ability to translate ambiguous problems into scalable, data-driven product solutions.
 
 ---
 
-### 🏎️ SK Autoperformance
+## 👨‍💼 WORK EXPERIENCE
+
+### 🚗 Wash On Wheels — Mobile Car Wash (Startup)  
+**Co-founder / Product Owner** | Oct 2023 – Sep 2025 | Sangli, Maharashtra
+
+- Led **0→1 product development** for a doorstep car-wash service, owning discovery, MVP definition, and go-to-market execution  
+- Conducted qualitative user research (30+ customer conversations) to identify unmet needs around convenience and reliability  
+- Designed a **mobile-first operating model**, reducing fixed infrastructure dependency by ~40% compared to station-based alternatives  
+- Owned the **end-to-end customer journey** (discovery → booking → service delivery → feedback → repeat usage)  
+- Defined and tracked **core product metrics** including repeat customers/month (North Star), service turnaround time, and customer satisfaction  
+
+🔗 **Case Study:** https://washonwheelcasestudy.lovable.app
+
+---
+
+### 🏎️ SK Autoperformance  
 **Business Development Manager** | Oct 2021 – Aug 2024 | Sangli, Maharashtra
 
-- Conducted market research to identify regional growth opportunities  
-- Analyzed customer needs, competitor strategies, and market trends  
-- Supported revenue growth through partnerships and sales initiatives  
+- Conducted regional market analysis to identify growth opportunities and demand pockets  
+- Analyzed customer needs, competitor strategies, and market trends to support pricing and GTM decisions  
+- Supported revenue growth through partnerships, lead conversion, and sales initiatives  
 
 ---
 
-### 📦 Product Manager Fellow – Nextleap
+### 📦 Product Manager Fellow — NextLeap  
 **Certification in Product Management** | June 2024
 
-- Executed full product lifecycle: user research, problem discovery, PRDs, and MVP definition  
-- Collaborated with design and engineering teams to ship product features  
-- Defined KPIs, success metrics, funnels, and post-launch analysis  
-- Worked on real-world case studies using Agile/Scrum methodologies  
+- Executed the **full product lifecycle** across real-world case studies: user research, problem framing, PRDs, prioritization, and MVP definition  
+- Applied **data-driven decision making**, defining KPIs, success metrics, and user funnels  
+- Collaborated cross-functionally with design and engineering teams in **Agile/Scrum** environments  
+
+🔗 **Case Study – Street Food Finder App:**  
+https://nextleap.app/portfolio/kaustubh-deshmukh
 
 ---
 
-## 🎓 Graduation Project
+## 🎓 GRADUATION PROJECT
 
-### Street Food Finder App
-- Market analysis & hypothesis building  
-- User segmentation and pain-point discovery  
-- Feature prioritization and MVP design  
-- Wireframes, user journey maps, and success metrics  
-- Monetization strategy and risk analysis  
+### 🌮 Street Food Finder App
+- Conducted market analysis and hypothesis validation in the unorganized street food segment  
+- Identified user segments and pain points through surveys and interviews  
+- Prioritized features using impact-based frameworks and defined MVP scope  
+- Designed wireframes, user journeys, and success metrics  
+- Defined monetization strategy and key risk mitigations  
 
 ---
 
-## 🎓 Education
-
+## 🎓 EDUCATION
 **Bachelor of Technology – Mechanical Engineering**  
 PVPIT Budhgaon, Sangli | 2018 – 2021  
 
 ---
 
-## 📜 Certifications
-
+## 📜 CERTIFICATIONS
 - Microsoft Certified Architect: SQL Server (MCA)  
 - Product Launches Micro-Certification (PRLC™️)  
 - Generative AI for Product Managers  
 
 ---
 
-## 🛠 Skills
-
-**Analytics & Tools:**  
-Excel, Google Sheets, SQL, Google Analytics, Mixpanel, Figma, Jira  
+## 🛠 SKILLS
 
 **Product Skills:**  
-Product Strategy, 0→1 Product Building, Growth Experiments, AI-driven Products  
+Product Discovery, 0→1 Product Development, MVP Definition, PRDs, Roadmapping, Metrics & KPIs, Growth Experiments  
+
+**Analytics & Tools:**  
+SQL, Google Analytics, Mixpanel, Figma, Jira, Excel, Google Sheets  
 
 ---
 
-⭐ _Open to Associate Product Manager / Product Roles_
+⭐ Open to **Associate Product Manager / Product Roles**
+
